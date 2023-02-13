@@ -9,5 +9,5 @@ p1=Person("Anvar")
 p2=Person("Shavkat")
 p3=Person("Jasur")
 
-person=[p1,p2,p3]
+persons=[p1,p2,p3]
 
